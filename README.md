@@ -6,8 +6,10 @@ Steps:
 1) Load Data: Load the Breast Cancer dataset from scikit-learn.
 2) Data Splitting: Split the dataset into training and testing sets.
 3) Model Building and Evaluation: Implement different classifiers:
+
 Decision Tree
 Bagging
 AdaBoost
 Random Forest
+
 Evaluate each classifier's accuracy and visualize the results.
