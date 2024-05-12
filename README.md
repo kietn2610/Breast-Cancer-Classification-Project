@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification-Project
 
-This project involves using various ensemble methods and decision trees to classify breast cancer data using scikit-learn. We'll be evaluating the performance of decision trees, bagging, AdaBoost, and random forests for this classification task.
+This project aims to compare different machine learning methods—like decision trees, bagging, AdaBoost, and random forests—on a breast cancer dataset. We want to see which method gives the most accurate predictions for identifying whether a breast tumor is benign or malignant. By varying parameters like the number of estimators or features considered, we can understand how these methods perform and which settings work best for this specific task. Ultimately, this helps us choose the most effective approach for this classification problem.
 
 Steps:
 1) Load Data: Load the Breast Cancer dataset from scikit-learn.
@@ -23,4 +23,6 @@ Bagging: The plot shows how the accuracy improves with increasing n_estimators (
 AdaBoost: The plot demonstrates how accuracy increases with more n_estimators (weak learners) in AdaBoost. AdaBoost focuses on improving performance by iteratively correcting errors made by previous models.
 
 Random Forest: The plot illustrates how changing max_features (number of features considered at each split) affects accuracy in Random Forest. Different settings of max_features influence the trade-off between bias and variance, impacting model performance.
+
+
 
