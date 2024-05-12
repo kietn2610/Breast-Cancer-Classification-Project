@@ -15,6 +15,8 @@ Decision Tree,
 ![image](https://github.com/kietn2610/Breast-Cancer-Classification-Project/assets/80939100/b3bc3a1f-2ac8-405b-aa37-0105b628550f)
 ![image](https://github.com/kietn2610/Breast-Cancer-Classification-Project/assets/80939100/5c9a54e1-41a3-4428-9029-60bad4fa8f4c)
 ![image](https://github.com/kietn2610/Breast-Cancer-Classification-Project/assets/80939100/6f97607c-e35c-4619-9320-9031b305abe1)
+![image](https://github.com/kietn2610/Breast-Cancer-Classification-Project/assets/80939100/e0939383-d2c9-4be0-9fe2-dc6f9238dc15)
+
 
 Bagging: The plot shows how the accuracy improves with increasing n_estimators (number of base models) in bagging. More estimators generally lead to better performance until a certain point.
 
